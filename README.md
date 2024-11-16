@@ -1,6 +1,5 @@
 - Hi, I’m Tarık Anafarta, a sophomore student at Bilkent University pursuing a degree in Computer Technologies and Information Systems.
 - I’m working as an Undergraduate Teaching Assistant at Bilkent University, assisting freshmen in the Introduction to Programming course.
--  I’m looking to collaborate on ...
 - Skills & Technologies
 - Programming Languages: Java, C, JavaScript, Python, PL/SQL
 - Technologies: HTML, CSS, Node.js, OpenGL, GNU/Linux, Cisco Packet Tracer
