@@ -1,9 +1,51 @@
-- Hi, I’m Tarık Anafarta, a sophomore student at Bilkent University pursuing a degree in Computer Technologies and Information Systems.
-- I’m working as an Undergraduate Teaching Assistant at Bilkent University, assisting freshmen in the Introduction to Programming course.
-- Skills: Java, C, JavaScript, Python, PL/SQL, HTML, CSS, JavaScript, OpenGL, GNU/Linux, Cisco Packet Tracer
-- Interests: Drumming, Badminton, Table Football
+<!-- Introduction -->
+<h1 align="center">Hi, I'm Tarık! 👋</h1>
+<p align="center">I'm an information technology student from Turkey, studying at Bilkent University.</p>
+<p align="center">Welcome to my GitHub profile!</p>
 
-<!---
-TarikAnafarta/TarikAnafarta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+<summary>
+  <strong>Social Media Accounts</strong>
+</summary>
+
+<p>Feel free to connect with me on LinkedIn or check out my other profiles below.</p>
+
+<!-- Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/tarik-anafarta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:tarikanafarta@hotmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-red"></a>
+</p>
+</details>
+
+<details>
+<summary>
+  <strong>About Me</strong>
+</summary>
+
+<p>
+  <strong>Software Engineer</strong><br>
+  - Currently working at Stash.<br>
+</p>
+</details>
+
+
+
+<details>
+<summary>
+  <strong>Projects</strong>
+</summary>
+
+<ul>
+  <li><a href="https://github.com/TarikAnafarta/Java-Project" target="_blank">Java Project</a> - a Java-based library management system.</li>
+</ul>
+</details>
+
+<details>
+<summary>
+  <strong>Visitors Counter</strong>
+</summary>
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TarikAnafarta" alt="Visitor Count">
+</p>
+</details>
