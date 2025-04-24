@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Tarık! 👋</h1>
-<p align="center">I'm an information technology student from Turkey, studying at Bilkent University.</p>
+<p align="center">I'm a Sophomore at Bilkent Computer Technologies and Information Systems and a Software Engineer at Stash. working on LLMs</p>
 <p align="center">Welcome to my GitHub profile!</p>
 
 <details>
@@ -12,7 +12,7 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/tarik-anafarta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/tarik-anafarta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:tarikanafarta@hotmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-red"></a>
 </p>
 </details>
@@ -27,8 +27,6 @@
   - Currently working at Stash.<br>
 </p>
 </details>
-
-
 
 <details>
 <summary>
