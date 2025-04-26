@@ -37,14 +37,3 @@
   <li><a href="https://github.com/TarikAnafarta/Java-Project" target="_blank">Java Project</a> - a Java-based library management system.</li>
 </ul>
 </details>
-
-<details>
-<summary>
-  <strong>Visitors Counter</strong>
-</summary>
-
-<p>
-  <a><img src="https://visitor-badge.laobi.icu/badge?page_id=TarikAnafarta" alt="Visitor Count"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TarikAnafarta" alt="Visitor Count">
-</p>
-</details>
