@@ -35,5 +35,9 @@
 
 <ul>
   <li><a href="https://github.com/TarikAnafarta/Java-Project" target="_blank">Java Project</a> - a Java-based library management system.</li>
+  <li><a href="https://github.com/TarikAnafarta/HTML-Project" target="_blank">HTML Project</a> - a JS-based Crypto Trading Information System.</li>
+  <li><a href="https://github.com/TarikAnafarta/256-Project" target="_blank">Backend Project</a> - a PHP based marketplace simulator.</li>
+  <li><a href="https://github.com/TarikAnafarta/OpenGL-Project1" target="_blank">OpenGL-Project1</a> - a Simple OpenGL Project.</li>
+  <li><a href="https://github.com/TarikAnafarta/OpenGL-Project2" target="_blank">OpenGL-Project2</a> - an Advanced OpenGL Project.</li>
 </ul>
 </details>
