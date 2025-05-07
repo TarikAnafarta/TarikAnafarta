@@ -10,7 +10,6 @@
 
 <p>Feel free to connect with me on LinkedIn or check out my other profiles below.</p>
 
-<!-- Badges -->
 <p>
   <a href="https://www.linkedin.com/in/tarik-anafarta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:tarikanafarta@hotmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-red"></a>
