@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Tarık! 👋</h1>
-<p align="center">I'm a Junior at Bilkent Computer Technologies and Information Systems and a Software Engineer at Stash. working on LLMs</p>
+<p align="center">I'm a Junior at Bilkent Computer Technologies and Information Systems</p>
 <p align="center">Welcome to my GitHub profile!</p>
 
 <details>
