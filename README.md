@@ -40,25 +40,3 @@ hands-on projects and competitions, allowing me to develop practical expertise.
   </details>
   
 ---
-
-## 💻 Experience
-- **03.2025 – 07.2025 | Intern, Stash**  
-  Developed API endpoints with **Python & Django REST**, designed a **GraphRAG-based chatbot**, and benchmarked LLMs (Qwen, LLaMA, CodeLlama, etc.).  
-- **09.2024 – 06.2025 | Teaching Assistant, Bilkent University**  
-  Supported **Introduction to Programming and Algorithms & Data Structures** courses through labs, exams, and student assistance.  
-- **12.2024 – 08.2025 | Data Scientist Trainee, Yapay Zeka ve Teknoloji Akademisi**  
-  Graduated from the **Data Science program** through project-based learning, **ideathon, datathon, and bootcamp.**    
-
----
-
-## 🏆 Honors & Awards
-- **Global Champion Finalist** – TEAM+S Competition by TSA (USA, 2022)  
-- **Top 14 Nationwide Project** – *Perisentez* selected among 270+ projects (Turkey, 2025)  
-- **3rd Place** – Kocaeli Badminton Tournament as club founder & captain  
-
----
-
-## 🌍 Languages
-- **Turkish (Native)** | **English (C1)** | **German (A1)** | **Russian (A1)**  
-
----
