@@ -40,3 +40,5 @@ hands-on projects and competitions, allowing me to develop practical expertise.
   </details>
   
 ---
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/tarikanafarta.png" alt="Your Image Badge" />
