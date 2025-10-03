@@ -41,4 +41,7 @@ hands-on projects and competitions, allowing me to develop practical expertise.
   
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/TarikAnafarta?theme=light,unicorn)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TarikAnafarta?theme=light,unicorn" height="200"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=TarikAnafarta&theme=light&border=border&animated=false" height="200"/>
+</p>
