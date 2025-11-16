@@ -22,7 +22,7 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 - [**Perisentez**](https://github.com/TarikAnafarta/perisentez)  
   Clinical decision-support app using **ML models + LLM chatbot** for syndrome risk prediction.  
 
-- [**Sustainability e-Commerce Platform**](https://github.com/TarikAnafarta/256-Project)  
+- [**Sustainability e-Commerce Platform**](https://github.com/TarikAnafarta/CTIS256-Project)  
   PHP/MySQL full-stack platform for near-expiration product sales with secure login & AJAX cart.  
 
 - [**BookIT!**](https://github.com/TarikAnafarta/Java-Project)  
