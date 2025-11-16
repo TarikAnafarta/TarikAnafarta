@@ -31,8 +31,8 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 - [**Crypto Trading Information System**](https://github.com/TarikAnafarta/HTML-Project)  
   Web app for **crypto trading simulation** with candlestick charts and portfolio tracking.
   
-- [**Logging App**](https://github.com/TarikAnafarta/MAD1IL-android-logging-app)
-  Mobile app for **Jetpack Compose login UI.**
+- [**Logging App**](https://github.com/TarikAnafarta/MAD1IL-android-logging-app)  
+  Mobile app for **Jetpack Compose login UI**.
 
 - <details>
   <summary><strong>OpenGL Projects</strong></summary>
