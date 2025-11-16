@@ -20,16 +20,19 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 
 ## 📂 Featured Projects
 - [**Perisentez**](https://github.com/TarikAnafarta/perisentez)  
-  Clinical decision-support app using **ML models + LLM chatbot** for syndrome risk prediction.  
+  Clinical decision-support app using **ML models + LLM chatbot** for syndrome risk prediction.
 
 - [**Sustainability e-Commerce Platform**](https://github.com/TarikAnafarta/CTIS256-Project)  
-  PHP/MySQL full-stack platform for near-expiration product sales with secure login & AJAX cart.  
+  PHP/MySQL full-stack platform for near-expiration product sales with secure login & AJAX cart.
 
 - [**BookIT!**](https://github.com/TarikAnafarta/Java-Project)  
-  Java-based **library management system** with borrowing, returns, and overdue fee tracking.  
+  Java-based **library management system** with borrowing, returns, and overdue fee tracking.
 
 - [**Crypto Trading Information System**](https://github.com/TarikAnafarta/HTML-Project)  
-  Web app for **crypto trading simulation** with candlestick charts and portfolio tracking.  
+  Web app for **crypto trading simulation** with candlestick charts and portfolio tracking.
+  
+- [**Logging App**](https://github.com/TarikAnafarta/MAD1IL-android-logging-app)
+  Mobile app for **Jetpack Compose login UI.**
 
 - <details>
   <summary><strong>OpenGL Projects</strong></summary>
