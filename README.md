@@ -19,6 +19,9 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 ---
 
 ## 📂 Featured Projects
+- [**EduGraph**](https://github.com/TarikAnafarta/EduGraph)  
+  An education platform that visualizes every student's learning objective as an interactive knowledge graph.
+  
 - [**Perisentez**](https://github.com/TarikAnafarta/perisentez)  
   Clinical decision-support app using **ML models + LLM chatbot** for syndrome risk prediction.
 
