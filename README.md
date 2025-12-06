@@ -41,7 +41,7 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 
 - [**BookIT!**](https://github.com/TarikAnafarta/Java-Project)  
   Java-based <strong>library management system</strong> with borrowing, returns, and overdue fee tracking.  
-  <sub><strong>Stack:</strong> Java (OpenJDK)</sub>
+  <sub><strong>Stack:</strong> Java</sub>
 
 - [**Crypto Trading Information System**](https://github.com/TarikAnafarta/HTML-Project)  
   Web app for <strong>crypto trading simulation</strong> with candlestick charts and portfolio tracking.  
