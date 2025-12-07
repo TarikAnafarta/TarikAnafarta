@@ -3,14 +3,14 @@
 <p align="center">
   Junior at Bilkent CTIS | Erasmus+ Exchange Student at FH Upper Austria  
 </p>
-<p align="center">
+<div align="center" style="line-height:0; font-size:0;">
   <a href="https://www.linkedin.com/in/tarik-anafarta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tarikanafarta@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
