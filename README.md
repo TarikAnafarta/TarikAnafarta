@@ -35,6 +35,14 @@ hands-on projects and competitions, allowing me to develop practical expertise.
   Clinical decision-support app using <strong>ML models + LLM chatbot</strong> for syndrome risk prediction.  
   <sub><strong>Stack:</strong> Python · Vercel</sub>
 
+- [**Logging App**](https://github.com/TarikAnafarta/MAD1IL-android-logging-app)  
+  Mobile app for <strong>Jetpack Compose login UI</strong>.  
+  <sub><strong>Stack:</strong> Kotlin · Android · Jetpack Compose</sub>
+
+- [**Image Viewer**](https://github.com/TarikAnafarta/image-viewer)  
+  SDL-based app for viewing <strong>PPM images</strong>.  
+  <sub><strong>Stack:</strong> C · SDL</sub>
+
 - [**Sustainability e-Commerce Platform**](https://github.com/TarikAnafarta/CTIS256-Project)  
   PHP/MySQL full-stack platform for near-expiration product sales with secure login & AJAX cart.  
   <sub><strong>Stack:</strong> PHP · MySQL · phpMyAdmin · CSS</sub>
@@ -46,14 +54,6 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 - [**Crypto Trading Information System**](https://github.com/TarikAnafarta/HTML-Project)  
   Web app for <strong>crypto trading simulation</strong> with candlestick charts and portfolio tracking.  
   <sub><strong>Stack:</strong> HTML · CSS</sub>
-
-- [**Logging App**](https://github.com/TarikAnafarta/MAD1IL-android-logging-app)  
-  Mobile app for <strong>Jetpack Compose login UI</strong>.  
-  <sub><strong>Stack:</strong> Kotlin · Android · Jetpack Compose</sub>
-
-- [**Image Viewer**](https://github.com/TarikAnafarta/image-viewer)  
-  SDL-based app for viewing <strong>PPM images</strong>.  
-  <sub><strong>Stack:</strong> C · SDL</sub>
 
 <details>
   <summary><strong>OpenGL Projects</strong></summary>
