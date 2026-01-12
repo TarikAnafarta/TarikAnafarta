@@ -24,7 +24,7 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 ## 📂 Featured Projects
 
 - [**BayKoç**](https://github.com/TarikAnafarta/EduGraph)  
-  An education platform that visualizes every student's learning objective as an interactive knowledge graph.  
+  A web platform that centralizes learning planning, progress tracking, and productivity tools into a unified, user-centric dashboard.  
   <sub><strong>Stack:</strong> Python · Django · React · TailwindCSS · PostgreSQL · Docker</sub> 
   <details>
     <summary>Extended stack &amp; tooling</summary>
