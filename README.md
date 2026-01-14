@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Tarık Anafarta 👋</h1>
+<h1 align="center">Hi, I'm Tarık Anafarta</h1>
 <p align="center">
   Junior at Bilkent CTIS | Erasmus+ Exchange Student at FH Upper Austria  
 </p>
@@ -14,14 +14,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a junior software developer driven by a passion for problem-solving. Beyond academic coursework, I actively engage in
 hands-on projects and competitions, allowing me to develop practical expertise.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - [**BayKoç**](https://github.com/TarikAnafarta/EduGraph)  
   A web platform that centralizes learning planning, progress tracking, and productivity tools into a unified, user-centric dashboard.  
