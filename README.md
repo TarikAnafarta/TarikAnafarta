@@ -23,14 +23,6 @@ hands-on projects and competitions, allowing me to develop practical expertise.
 
 ## Featured Projects
 
-- [**BayKoç**](https://github.com/TarikAnafarta/EduGraph)  
-  A web platform that centralizes learning planning, progress tracking, and productivity tools into a unified, user-centric dashboard.  
-  <sub><strong>Stack:</strong> Python · Django · React · TailwindCSS · PostgreSQL · Docker</sub> 
-  <details>
-    <summary>Extended stack &amp; tooling</summary>
-    <sub>JavaScript · Vite · npm · Node.js · Ruff · ESLint · pre-commit · GitHub Actions</sub>
-  </details>
-
 - [**Perisentez**](https://github.com/TarikAnafarta/perisentez)  
   Clinical decision-support app using <strong>ML models + LLM chatbot</strong> for syndrome risk prediction.  
   <sub><strong>Stack:</strong> Python · Vercel</sub>
