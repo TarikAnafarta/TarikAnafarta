@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Tarık Anafarta</h1>
 <p align="center">
-  Software Engineer at HAVELSAN | Junior at Bilkent CTIS
+  System Management Intern at HAVELSAN | Junior at Bilkent CTIS
 </p>
 <div align="center" style="line-height:0; font-size:0;">
   <a href="https://www.linkedin.com/in/tarik-anafarta/" target="_blank">
