@@ -16,8 +16,8 @@
 
 ## About Me
 
-I'm a junior software developer driven by a passion for problem-solving. Beyond academic coursework, I actively engage in
-hands-on projects and competitions, allowing me to develop practical expertise.
+Junior software developer with experience in web development, AI-based applications, and cloud-native systems. Worked
+on projects through internships, teaching assistance, and training programs in software testing, data science, and AI.
 
 ---
 
