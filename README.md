@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Tarık Anafarta</h1>
 <p align="center">
-  System Management Intern at HAVELSAN | Junior at Bilkent CTIS
+  Junior at Bilkent CTIS
 </p>
 <div align="center" style="line-height:0; font-size:0;">
   <a href="https://www.linkedin.com/in/tarik-anafarta/" target="_blank">
@@ -16,8 +16,7 @@
 
 ## About Me
 
-Junior software developer with experience in web development, AI-based applications, and cloud-native systems. Worked
-on projects through internships, teaching assistance, and training programs in software testing, data science, and AI.
+Junior software developer with experience in web development, AI-based applications, cloud-native systems, and system administration. Hands-on background in observability, monitoring, logging, software testing, data science, and AI through internships and training programs.
 
 ---
 
