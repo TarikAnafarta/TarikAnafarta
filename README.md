@@ -22,6 +22,11 @@ Junior software developer with experience in web development, AI-based applicati
 
 ## Featured Projects
 
+
+- [**Calorie Tracker**](https://github.com/TarikAnafarta/Calorie-Tracker)  
+  A modern Android application for tracking daily calorie intake, managing nutrition goals, and monitoring meal history.  
+  <sub><strong>Stack:</strong> Kotlin · Jetpack Compose</sub>
+
 - [**Perisentez**](https://github.com/TarikAnafarta/perisentez)  
   Clinical decision-support app using <strong>ML models + LLM chatbot</strong> for syndrome risk prediction.  
   <sub><strong>Stack:</strong> Python · Vercel</sub>
