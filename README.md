@@ -76,5 +76,5 @@ Junior software developer with experience in web development, AI-based applicati
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TarikAnafarta?theme=light,unicorn" height="200"/>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=TarikAnafarta&theme=light&border=border&animated=false" height="200"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/tarikanafarta.png" alt="TryHackMe Badge">
+  <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/tarikanafarta.png" alt="TryHackMe Badge"> -->
 </p>
